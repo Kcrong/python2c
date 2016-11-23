@@ -1,0 +1,4 @@
+START_FUNC_NAME = "main"
+DEFAULT_INCLUDE_MODULE = "stdio.h"
+NEXT_LINE = '\n'
+SEMICOLON = ';'
